@@ -99,3 +99,4 @@ while (copyFile.length>100){
 };
 parser(file1);
 parser(file2);
+console.log('parsing comlete. Look in path json');
